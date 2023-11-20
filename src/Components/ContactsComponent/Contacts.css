@@ -1,0 +1,22 @@
+.contact{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.email{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.phone{
+    display: flex;
+    align-items: center;
+}
+
+.fa-solid{
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
